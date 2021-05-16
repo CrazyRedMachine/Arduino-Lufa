@@ -13,7 +13,7 @@
           "architecture": "avr",
           "version": "1.8.3",
           "category": "Contributed",
-          "url": "https://github.com/CrazyRedMachine/Arduino-LUFA/raw/library/custom_boards/arduino-LUFA-1.8.3.zip",
+          "url": "https://github.com/CrazyRedMachine/Arduino-LUFA/raw/board-only/custom_boards/arduino-LUFA-1.8.3.zip",
           "archiveFileName": "arduino-LUFA-1.8.3.zip",
           "checksum": "SHA-256:556a5b8eb87e353e68e57018de1e4d5d556bb22e39b07d4d8a0d3c90939d9a75",
           "size": "7054168",
