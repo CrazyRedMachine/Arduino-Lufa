@@ -1,4 +1,4 @@
-# Arduino-Lufa
+# Arduino-Lufa (through Arduino board manager :) )
 
 =========================
 
@@ -22,7 +22,7 @@ Thus, I managed to bring the powerful [LUFA] to Arduino!
 
 As LUFA requires changes to the Arduino core files, it is installed as custom boards.
 
-In the Arduino IDE, go to `File > Preferences`, and in `Additional Boards Manager URLs` add the following entry : `https://github.com/Palatis/Arduino-Lufa/raw/master/package_arduino-lufa_index.json`
+In the Arduino IDE, go to `File > Preferences`, and in `Additional Boards Manager URLs` add the following entry : `https://github.com/CrazyRedMachine/Arduino-Lufa/raw/master/package_arduino-lufa_index.json`
 
 <img src="readme_assets/preferences.png" height="350"
 alt="File > Preferences"
